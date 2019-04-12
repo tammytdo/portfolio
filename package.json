@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "301d46 express yes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tammytdo/portfolio.git"
+  },
+  // double check author format
+  "author": "TammyDo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tammytdo/portfolio/issues"
+  },
+  "homepage": "https://github.com/tammytdo/portfolio#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
+}
